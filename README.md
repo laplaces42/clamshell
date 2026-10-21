@@ -29,8 +29,8 @@ ClamshellToggle wraps that in a toggle and adds safety nets. It does not use a m
 ## Install
 
 ```
-git clone https://github.com/laplaces42/ClamshellToggle.git
-cd ClamshellToggle
+git clone https://github.com/laplaces42/clamshell.git
+cd clamshell
 ./scripts/build-app.sh --install    # builds, ad-hoc signs, copies to ~/Applications
 open ~/Applications/ClamshellToggle.app
 ```
